@@ -119,6 +119,7 @@
     }
     body {
       font-family: Arial, Helvetica, sans-serif;
+      overflow:hidden;
     }
     
     .flip-card {
@@ -178,6 +179,7 @@
         justify-content:space-between;
         align-items:center;
         background: var(--headerclr);
+      overflow:hidden;
     }
   
     #logo{
